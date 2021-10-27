@@ -1,1 +1,1 @@
-# oca-repo-staging-pr
+# oca-repo-staging
